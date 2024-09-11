@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mouse Trap
+  m_Text: Ghost Trap
 --- !u!222 &230976906
 CanvasRenderer:
   m_ObjectHideFlags: 0
